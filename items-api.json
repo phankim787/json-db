@@ -41,7 +41,7 @@
   {
     "id": 4,
     "listID": 5,
-    "recipe": Sushi,
+    "recipe": "Sushi",
     "ingredients":
     {
       "seaweed", "rice", "tuna", "cucumber", "rice vinegar", "avocado"
@@ -54,7 +54,7 @@
     {
     "id": 5,
     "listID": 2,
-    "recipe": Chow Mein,
+    "recipe": "Chow Mein",
     "ingredients":
     {
       "noodles", "onions", "carrot", "soy sauce", "cabbage", "garlic", "sesame oil"
@@ -67,7 +67,7 @@
     {
     "id": 6,
     "listID": 4,
-    "recipe": Chicken Tikki Masala,
+    "recipe": "Chicken Tikki Masala",
     "ingredients":
     {
       "Rice", "chicken", "tomato", "yogurt", "cumin", "onions"
