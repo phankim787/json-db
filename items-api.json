@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "listID": 1,
+    "recipe": "Pho",
+    "ingredients": 
+    {
+      "Rice noodles", "Cilantro", "Mint", "Beef", "onions", "fish sauce", "Bean sprouts", "Water", "Star anise"
+    },
+    "portion": 1,
+    "foodType": "Soup",
+    "difficulty": "medium"
+    "prepTime": "2 hours"
+  },
+  {
+    "id": 2,
+    "listID": ,
+    "recipe": ,
+    "ingredients":
+    {
+      
+    },
+    "portion": ,
+    "foodType": ,
+    "difficulty": ,
+    "prepTime":
+  },
+  {
+    "id": 3,
+    "listID": ,
+    "recipe": ,
+    "ingredients":
+    {
+      
+    },
+    "portion": ,
+    "foodType": ,
+    "difficulty": ,
+    "prepTime":
+  },
+  {
+    "id": 4,
+    "listID": ,
+    "recipe": ,
+    "ingredients":
+    {
+      
+    },
+    "portion": ,
+    "foodType": ,
+    "difficulty": ,
+    "prepTime":
+  }
+  
+]
