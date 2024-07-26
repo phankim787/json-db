@@ -5,51 +5,77 @@
     "recipe": "Pho",
     "ingredients": 
     {
-      "Rice noodles", "Cilantro", "Mint", "Beef", "onions", "fish sauce", "Bean sprouts", "Water", "Star anise"
+      "Rice noodles", "Cilantro", "Mint", "Beef", "onions", "fish sauce", "Bean sprouts", "Star anise"
     },
-    "portion": 1,
+    "portion": 10,
     "foodType": "Soup",
-    "difficulty": "medium"
-    "prepTime": "2 hours"
+    "difficulty": "hard"
+    "prepTime": 300
   },
   {
     "id": 2,
-    "listID": ,
-    "recipe": ,
+    "listID": 3,
+    "recipe": "Spicy Kimchi Tofu Stew",
     "ingredients":
     {
-      
+      "Tofu", "Kimchi", "gochujang", "Onions", "Garlic", "Red pepper flakes", "Sesame oil"
     },
-    "portion": ,
-    "foodType": ,
-    "difficulty": ,
-    "prepTime":
+    "portion": 1,
+    "foodType": "Soup",
+    "difficulty": "easy",
+    "prepTime": 20
   },
   {
     "id": 3,
-    "listID": ,
-    "recipe": ,
+    "listID": 1,
+    "recipe": "Fresh Spring rolls",
     "ingredients":
     {
-      
+      "rice noodles", "shrimp", "rice paper", "mint", "cilantro", "peanut butter", "pork"
     },
-    "portion": ,
-    "foodType": ,
-    "difficulty": ,
-    "prepTime":
+    "portion": 5,
+    "foodType": "Appetizer",
+    "difficulty": "easy",
+    "prepTime": 15
   },
   {
     "id": 4,
-    "listID": ,
-    "recipe": ,
+    "listID": 5,
+    "recipe": Sushi,
     "ingredients":
     {
-      
+      "seaweed", "rice", "tuna", "cucumber", "rice vinegar", "avocado"
     },
-    "portion": ,
-    "foodType": ,
-    "difficulty": ,
-    "prepTime":
+    "portion": 6,
+    "foodType": "Appetizer",
+    "difficulty": "easy",
+    "prepTime": 20
+  },
+    {
+    "id": 5,
+    "listID": 2,
+    "recipe": Chow Mein,
+    "ingredients":
+    {
+      "noodles", "onions", "carrot", "soy sauce", "cabbage", "garlic", "sesame oil"
+    },
+    "portion": 1,
+    "foodType": "Stir-fry",
+    "difficulty": "medium",
+    "prepTime": 20
+  },
+    {
+    "id": 6,
+    "listID": 4,
+    "recipe": Chicken Tikki Masala,
+    "ingredients":
+    {
+      "Rice", "chicken", "tomato", "yogurt", "cumin", "onions"
+    },
+    "portion": 1,
+    "foodType": "Curry",
+    "difficulty": "medium",
+    "prepTime": 40
   }
   
 ]
