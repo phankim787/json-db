@@ -3,10 +3,7 @@
     "id": 1,
     "listId": 1,
     "title": "Pho",
-    "ingredients": 
-    {
-      "Rice noodles", "Cilantro", "Mint", "Beef", "onions", "fish sauce", "Bean sprouts", "Star anise"
-    },
+    "mainIngredient": "Beef Broth",
     "quantity": 10,
     "foodType": "Soup",
     "difficulty": "hard"
@@ -15,11 +12,8 @@
   {
     "id": 2,
     "listId": 3,
-    "title": "Spicy Kimchi Tofu Stew",
-    "ingredients":
-    {
-      "Tofu", "Kimchi", "gochujang", "Onions", "Garlic", "Red pepper flakes", "Sesame oil"
-    },
+    "title": "Spicy Tofu Stew",
+    "mainIngredient": "Tofu",
     "quantity": 1,
     "foodType": "Soup",
     "difficulty": "easy",
@@ -29,10 +23,7 @@
     "id": 3,
     "listId": 1,
     "title": "Fresh Spring rolls",
-    "ingredients":
-    {
-      "rice noodles", "shrimp", "rice paper", "mint", "cilantro", "peanut butter", "pork"
-    },
+    "mainIngredient": "Rice noodles",
     "quantity": 5,
     "foodType": "Appetizer",
     "difficulty": "easy",
@@ -42,10 +33,7 @@
     "id": 4,
     "listId": 5,
     "title": "Sushi",
-    "ingredients":
-    {
-      "seaweed", "rice", "tuna", "cucumber", "rice vinegar", "avocado"
-    },
+    "mainIngredient": "fish",
     "quantity": 6,
     "foodType": "Appetizer",
     "difficulty": "easy",
@@ -55,10 +43,7 @@
     "id": 5,
     "listId": 2,
     "title": "Chow Mein",
-    "ingredients":
-    {
-      "noodles", "onions", "carrot", "soy sauce", "cabbage", "garlic", "sesame oil"
-    },
+    "mainIngredient": "noodles",
     "quantity": 1,
     "foodType": "Stir-fry",
     "difficulty": "medium",
@@ -68,10 +53,7 @@
     "id": 6,
     "listId": 4,
     "title": "Chicken Tikki Masala",
-    "ingredients":
-    {
-      "Rice", "chicken", "tomato", "yogurt", "cumin", "onions"
-    },
+    "mainIngredient": "tomato",
     "quantity": 1,
     "foodType": "Curry",
     "difficulty": "medium",
