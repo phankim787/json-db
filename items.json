@@ -2,7 +2,7 @@
   {
     "id": 1,
     "listId": 1,
-    "recipe": "Pho",
+    "title": "Pho",
     "ingredients": 
     {
       "Rice noodles", "Cilantro", "Mint", "Beef", "onions", "fish sauce", "Bean sprouts", "Star anise"
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "listId": 3,
-    "recipe": "Spicy Kimchi Tofu Stew",
+    "title": "Spicy Kimchi Tofu Stew",
     "ingredients":
     {
       "Tofu", "Kimchi", "gochujang", "Onions", "Garlic", "Red pepper flakes", "Sesame oil"
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "listId": 1,
-    "recipe": "Fresh Spring rolls",
+    "title": "Fresh Spring rolls",
     "ingredients":
     {
       "rice noodles", "shrimp", "rice paper", "mint", "cilantro", "peanut butter", "pork"
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "listId": 5,
-    "recipe": "Sushi",
+    "title": "Sushi",
     "ingredients":
     {
       "seaweed", "rice", "tuna", "cucumber", "rice vinegar", "avocado"
@@ -54,7 +54,7 @@
     {
     "id": 5,
     "listId": 2,
-    "recipe": "Chow Mein",
+    "title": "Chow Mein",
     "ingredients":
     {
       "noodles", "onions", "carrot", "soy sauce", "cabbage", "garlic", "sesame oil"
@@ -67,7 +67,7 @@
     {
     "id": 6,
     "listId": 4,
-    "recipe": "Chicken Tikki Masala",
+    "title": "Chicken Tikki Masala",
     "ingredients":
     {
       "Rice", "chicken", "tomato", "yogurt", "cumin", "onions"
