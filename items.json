@@ -7,7 +7,7 @@
     {
       "Rice noodles", "Cilantro", "Mint", "Beef", "onions", "fish sauce", "Bean sprouts", "Star anise"
     },
-    "portion": 10,
+    "quantity": 10,
     "foodType": "Soup",
     "difficulty": "hard"
     "prepTime": 300
@@ -20,7 +20,7 @@
     {
       "Tofu", "Kimchi", "gochujang", "Onions", "Garlic", "Red pepper flakes", "Sesame oil"
     },
-    "portion": 1,
+    "quantity": 1,
     "foodType": "Soup",
     "difficulty": "easy",
     "prepTime": 20
@@ -33,7 +33,7 @@
     {
       "rice noodles", "shrimp", "rice paper", "mint", "cilantro", "peanut butter", "pork"
     },
-    "portion": 5,
+    "quantity": 5,
     "foodType": "Appetizer",
     "difficulty": "easy",
     "prepTime": 15
@@ -46,7 +46,7 @@
     {
       "seaweed", "rice", "tuna", "cucumber", "rice vinegar", "avocado"
     },
-    "portion": 6,
+    "quantity": 6,
     "foodType": "Appetizer",
     "difficulty": "easy",
     "prepTime": 20
@@ -59,7 +59,7 @@
     {
       "noodles", "onions", "carrot", "soy sauce", "cabbage", "garlic", "sesame oil"
     },
-    "portion": 1,
+    "quantity": 1,
     "foodType": "Stir-fry",
     "difficulty": "medium",
     "prepTime": 20
@@ -72,7 +72,7 @@
     {
       "Rice", "chicken", "tomato", "yogurt", "cumin", "onions"
     },
-    "portion": 1,
+    "quantity": 1,
     "foodType": "Curry",
     "difficulty": "medium",
     "prepTime": 40
